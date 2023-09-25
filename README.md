@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmad-khan-7bbb48118/](https://www.linkedin.com/in/ahmad-khan-7bbb48118/)
 
-- 💬 Ask me about **odoo, ptyhon, erp**
+- 💬 Ask me about **Odoo, Python, ERP**
 
 - 📫 How to reach me **ahmadkhanamir17**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-khan-7bbb48118/details/featured/1635542213042/single-media-viewer/?profileId=ACoAAB1bgn8BCsx67cOQU37szwS1jRWbr15b81g](https://www.linkedin.com/in/ahmad-khan-7bbb48118/details/featured/1635542213042/single-media-viewer/?profileId=ACoAAB1bgn8BCsx67cOQU37szwS1jRWbr15b81g)
 
-- ⚡ Fun fact **I good in logic design and problem so lovin.**
+- ⚡ Fun fact **I good in logic design and problem soloving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
