@@ -4,7 +4,7 @@
   <a href="https://ahmadkhanamir17.github.io"><img src="https://img.shields.io/badge/Portfolio-ahmadkhanamir17.github.io-0F6B4F?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ahmadkhanamir17"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://apps.odoo.com/apps/browse?repo_maintainer_id=361718"><img src="https://img.shields.io/badge/Odoo_Apps-My_apps-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="My Odoo apps"></a>
-  <a href="https://ahmadkhanamir17.github.io/Ahmad_Khan_CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-333333?style=for-the-badge" alt="Download CV"></a>
+  <a href="https://ahmadkhanamir17.github.io/Ahmad_Khan_CV_20102026.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-333333?style=for-the-badge" alt="Download CV"></a>
 </p>
 
 ## About me
