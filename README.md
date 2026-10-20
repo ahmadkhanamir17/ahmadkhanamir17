@@ -19,6 +19,15 @@ I'm a **Certified Odoo Functional Consultant** and Senior Odoo Developer in Riya
 
 📂 **[Read the detailed case studies on my portfolio](https://ahmadkhanamir17.github.io/#work)**
 
+## 🚀 Featured build: SupportIQ
+
+**AI support agents, built without code.** My self-hosted platform for building AI customer-support agents from an admin panel: any model (OpenAI, Claude, Gemini, Ollama), hybrid RAG with sources, tools with approval guardrails for risky actions, human hand-off with AI summaries, customer memory, and a one-line website widget. It ships with an Odoo connector, MCP tool servers and 210 automated tests.
+
+<a href="https://ahmadkhanamir17.github.io/#supportiq"><img src="https://img.shields.io/badge/Watch_the_demo-SupportIQ-4F46E5?style=for-the-badge" alt="Watch the SupportIQ demo"></a>
+<a href="https://ahmadkhanamir17.github.io/media/SupportIQ-overview.pdf"><img src="https://img.shields.io/badge/Overview-PDF-333333?style=for-the-badge" alt="SupportIQ overview PDF"></a>
+
+`FastAPI` `LangGraph` `LangChain` `PostgreSQL + pgvector` `Redis` `MCP` `Docker`
+
 ## Selected projects
 
 | Project | Industry | What I delivered |
