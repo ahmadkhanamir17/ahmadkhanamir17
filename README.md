@@ -17,10 +17,13 @@ I design, build and scale Odoo ERP systems, and bring AI into them. 6 years and 
 - 🛒 Published **AI apps on the Odoo App Store**, saving about 95% of manual cross-sell work
 - 🏆 **Successful E-Procurement Implementation Award** at FPCL
 
-### 🧩 Published Odoo apps (Odoo 19)
+### 🧩 Published Odoo apps
 
 - [AI eCommerce — Smart Semantic Search](https://apps.odoo.com/apps/modules/19.0/ai_ecom_smart_search): finds products by intent, including multilingual queries
 - [AI eCommerce — Product Suggester](https://apps.odoo.com/apps/modules/19.0/ai_ecom_product_suggester): AI cross-sell and up-sell suggestions
+- [AI CV Parser & Recruiter Form](https://apps.odoo.com/apps/modules/19.0/ai_hr_recruitment_form) · [Plaid Bank Sync](https://apps.odoo.com/apps/modules/17.0/plaid_integration) · [Private Chat](https://apps.odoo.com/apps/modules/17.0/private_chat) · [POS Product Restriction](https://apps.odoo.com/apps/modules/17.0/pos_pricelist_items_only) and more
+
+👉 [See all my apps on the Odoo App Store](https://apps.odoo.com/apps/browse?repo_maintainer_id=361718)
 
 ### 🛠️ Tech stack
 
