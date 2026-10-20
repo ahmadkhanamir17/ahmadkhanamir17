@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Ahmad Khan, Senior Odoo Developer and AI Automation Engineer">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="#0F4A38"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <g font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="64" y="118" font-size="62" font-weight="800" fill="#ffffff" letter-spacing="-1.5">Ahmad Khan</text>
+    <text x="66" y="164" font-size="25" font-weight="600" fill="#8FE0BF">Senior Odoo Developer · Team Lead · AI Automation Engineer</text>
+    <text x="66" y="204" font-size="19" fill="#C9DDD4">Odoo v12 to v20 · Python · PostgreSQL · FastAPI · LangChain · Riyadh, Saudi Arabia</text>
+
+    <g transform="translate(66,238)">
+      <rect width="150" height="50" rx="10" fill="#ffffff" fill-opacity=".09"/>
+      <text x="16" y="32" font-size="22" font-weight="800" fill="#ffffff">6 yrs</text>
+      <text x="82" y="32" font-size="14" fill="#C9DDD4">Odoo</text>
+      <g transform="translate(164,0)">
+        <rect width="170" height="50" rx="10" fill="#ffffff" fill-opacity=".09"/>
+        <text x="16" y="32" font-size="22" font-weight="800" fill="#ffffff">12+</text>
+        <text x="66" y="32" font-size="14" fill="#C9DDD4">projects</text>
+      </g>
+      <g transform="translate(348,0)">
+        <rect width="196" height="50" rx="10" fill="#ffffff" fill-opacity=".09"/>
+        <text x="16" y="32" font-size="22" font-weight="800" fill="#ffffff">5</text>
+        <text x="42" y="32" font-size="14" fill="#C9DDD4">migrations to v20</text>
+      </g>
+      <g transform="translate(558,0)">
+        <rect width="210" height="50" rx="10" fill="#ffffff" fill-opacity=".09"/>
+        <text x="16" y="32" font-size="22" font-weight="800" fill="#ffffff">6,000+</text>
+        <text x="104" y="32" font-size="14" fill="#C9DDD4">gov. users</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- status bar motif, echoing an Odoo record's stages -->
+  <g transform="translate(880,64)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">
+    <path d="M0 0h70l14 18-14 18H0z" fill="#ffffff" fill-opacity=".14"/>
+    <text x="14" y="23" fill="#C9DDD4">Junior</text>
+    <path d="M76 0h86l14 18-14 18H76l14-18z" fill="#ffffff" fill-opacity=".14"/>
+    <text x="96" y="23" fill="#C9DDD4">Developer</text>
+    <path d="M168 0h70l14 18-14 18h-70l14-18z" fill="#ffffff" fill-opacity=".14"/>
+    <text x="190" y="23" fill="#C9DDD4">Senior</text>
+    <path d="M244 0h110v36h-110l14-18z" fill="#8FE0BF"/>
+    <text x="266" y="23" fill="#0F4A38">Team Lead</text>
+  </g>
+</svg>
